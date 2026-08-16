@@ -1,0 +1,7 @@
+description: "Reinforcement learning for FX trading with DQN, PPO, and A2C policies, evaluated against HistData FX market data."
+topics:
+- dqn
+- ppo
+- a2c
+- fx-market
+- sharpe-ratio
